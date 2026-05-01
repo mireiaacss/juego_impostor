@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/juego_impostor/static/js/main.2dd0aa75.js",
+    "index.html": "/juego_impostor/index.html",
+    "main.2dd0aa75.js.map": "/juego_impostor/static/js/main.2dd0aa75.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2dd0aa75.js"
+  ]
+}
